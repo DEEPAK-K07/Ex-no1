@@ -69,7 +69,8 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="1101" height="642" alt="Screenshot 2026-01-28 104208" src="https://github.com/user-attachments/assets/d1d7e15d-35f7-48c0-985f-a20c25d38f8d" />
+
+<img width="642" height="433" alt="image" src="https://github.com/user-attachments/assets/c97ffd85-4b51-4973-9831-656169887928" />
 
 
 ## 2. SUBTRACTION
@@ -126,7 +127,8 @@ COMMANDS
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="1532" height="892" alt="image" src="https://github.com/user-attachments/assets/0e5d4f1c-7fea-47cc-b233-ae98684344a9" />
+
+<img width="642" height="433" alt="image" src="https://github.com/user-attachments/assets/76ad3755-d1cd-4ea0-8adb-df8072f15564" />
 
 
 ## 3. MULTIPLICATION
@@ -178,7 +180,8 @@ end
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="1919" height="1199" alt="Screenshot 2026-01-31 083909" src="https://github.com/user-attachments/assets/dfc62f6a-97c5-496d-905e-cfe4605d66e7" />
+
+![WhatsApp Image 2026-02-05 at 11 46 31 AM](https://github.com/user-attachments/assets/196f27fb-9718-4ebe-b0ec-be4cef87295d)
 
 
 ## 4. DIVISION
@@ -227,9 +230,8 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
-<img width="1919" height="1199" alt="Screenshot 2026-01-31 091816" src="https://github.com/user-attachments/assets/393cc192-db04-4aa3-88a5-775db5b99d6c" />
 
-
+<img width="642" height="433" alt="image" src="https://github.com/user-attachments/assets/438fa20c-9d37-4d39-bb78-6a8352bf6ced" />
 
 ## RESULT
 
